@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+*.classpath
+*.project
 
 # Log file
 *.log
@@ -23,4 +25,5 @@
 hs_err_pid*
 
 #bin folder
-./Java-Design-Patterns/bin/
+*/bin/*
+*/.settings/*
