@@ -5,6 +5,9 @@ package design.patterns.builder;
 
 /**
  * @author nagendra
+ * 
+ *         A Creational design patterns which is used to create the instance of
+ *         a needed object with the required values.
  *
  */
 public class BuilderPatternMain {

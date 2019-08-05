@@ -6,7 +6,10 @@ package design.patterns.proxy;
 /**
  * @author nagendra
  * 
- *         The access to an object should be controlled.
+ *         Provide a surrogate or placeholder for another object to control
+ *         access to it. The access to an object should be controlled.
+ *         
+ *         Structural patterns
  * 
  *         Additional functionality should be provided when accessing an object.
  * 
@@ -23,7 +26,7 @@ public class ProxyMain {
 	 */
 	public static void main(String[] args) {
 		Image image = new ProxyImage("my-1MB-Image");
-		System.out.println("Getting name: "+ image.getName());
+		System.out.println("Getting name: " + image.getName());
 		System.out.println("Displaying Image: ");
 		image.displayImage();
 	}

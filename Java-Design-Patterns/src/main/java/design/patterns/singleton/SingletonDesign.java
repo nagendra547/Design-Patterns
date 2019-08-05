@@ -3,7 +3,7 @@ package design.patterns.singleton;
 import java.io.Serializable;
 
 /**
- * 
+ * The famous Singleton design pattern. Ofcourse it's creational
  * @author nagendra
  *
  */

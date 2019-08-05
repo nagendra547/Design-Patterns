@@ -6,6 +6,8 @@ package design.patterns.facade;
 /**
  * @author nagendra
  * 
+ * 		   This comes under structural design pattern
+ * 
  *         So, As the name suggests, it means the face of the building. The
  *         people walking past the road can only see this glass face of the
  *         building. They do not know anything about it, the wiring, the pipes
